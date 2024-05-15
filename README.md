@@ -21,7 +21,7 @@ Lightweight Spyfall Discord bot inspired from Spyfall web page designed by Alexa
 - At this point the bot should be online in Discord and ready to go.
 
 ## Adding more locations
-- Go and follow setup on this repository. [link](https://github.com/Nathan-Carpenter-Git/Image-Captioner/tree/main)
+- Go follow the setup to caption image(s) on this repository. [link](https://github.com/Nathan-Carpenter-Git/Image-Captioner/tree/main)
 - Add captioned image(s) locations into images folder.
 - Add location name(s) into location array in Python.py. (locations = ["Airport Terminal", "Avengers Movie", etc.]) Note: Make sure to add them in order according to image number. (index 0 = 0.png)
 - Deploy or redeploy bot files onto Heroku.
