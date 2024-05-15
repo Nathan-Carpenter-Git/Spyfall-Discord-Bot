@@ -1,5 +1,7 @@
 # Spyfall Discord Bot [(Rules)](https://www.spyfall.app/gamerules)
 
+## Created by Nathan Carpenter and Nicholas Dillon
+
 ## About
 Lightweight Spyfall Discord bot inspired from Spyfall web page designed by Alexandr Ushan and Hobby World. The Spyfall Discord bot currently has 27 new locations not covered by original Spyfall game with the ability to add your own!
 
