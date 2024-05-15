@@ -22,7 +22,9 @@ Lightweight Spyfall Discord bot inspired from Spyfall web page designed by Alexa
 
 ## Adding more locations
 - Go and follow setup on this repository
-- Add locations (in order)
+- Add captioned image(s) locations into images folder.
+- Add location name(s) into location array in Python.py. (locations = ["Airport Terminal", "Avengers Movie", etc.]) Note: Make sure to add them in order according to image number. (index 0 = 0.png)
+- Deploy or redeploy bot files onto Heroku.
 
 ## Commands
 - !start_game (users) | Example: !start_game @Nathan @James @Sam | DMs everyone their role and starts timer.
