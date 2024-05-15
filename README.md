@@ -3,7 +3,7 @@
 ## About
 Lightweight Spyfall Discord bot inspired from Spyfall web page designed by Alexandr Ushan and Hobby World. The Spyfall Discord bot currently has 27 new locations not covered by original Spyfall game with the ability to add your own!
 
-## IMPORTANT
+## What-to-expect
 - This bot has been tested using Heroku, this means it will consume $0.01 per hour, or around $7.20 per month if left on constantly.
 - You can turn off the bot when you're not using it to save your money.
 
