@@ -35,4 +35,4 @@ Lightweight Spyfall Discord bot inspired from Spyfall web page designed by Alexa
 - !end_game | Ends game and stops timer.
 
 ## Credits
-Credits to the designer Alexandr Ushan and Hobby World for creating Spyfall. [Web App](https://www.spyfall.app) | [Game on Amazon](https://www.amazon.com/Cryptozoic-Entertainment-CZE01904-Spyfall-Card/dp/B00Y4TYRT8)
+Credits to the designer Alexandr Ushan and Hobby World for creating Spyfall. [Web App](https://spyfall.co/app) | [Game on Amazon](https://www.amazon.com/Cryptozoic-Entertainment-CZE01904-Spyfall-Card/dp/B00Y4TYRT8)
